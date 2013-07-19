@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://ptchacks.github.io/ptchacks/blog/2013/07/19/hello-world/</loc>
+        <lastmod>2013-07-19T13:53:28-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ptchacks.github.io/ptchacks/blog/archives/</loc>
+        <lastmod>2013-07-19T13:53:28-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ptchacks.github.io/ptchacks/</loc>
+        <lastmod>2013-07-19T13:53:28-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ptchacks.github.io/ptchacks/robots.txt</loc>
+        <lastmod>2013-07-19T13:26:09-04:00</lastmod>
+    </url>
+</urlset>

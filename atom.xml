@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[PTC Hacks]]></title>
+  <link href="http://ptchacks.github.io/ptchacks/atom.xml" rel="self"/>
+  <link href="http://ptchacks.github.io/ptchacks/"/>
+  <updated>2013-07-19T14:06:29-04:00</updated>
+  <id>http://ptchacks.github.io/ptchacks/</id>
+  <author>
+    <name><![CDATA[connection]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://ptchacks.github.io/ptchacks/blog/2013/07/19/hello-world/"/>
+    <updated>2013-07-19T13:49:00-04:00</updated>
+    <id>http://ptchacks.github.io/ptchacks/blog/2013/07/19/hello-world</id>
+    <content type="html"><![CDATA[<h1>Hello World</h1>
+
+<h3>Who Are We?</h3>
+
+<p>PTC is a group of hackers and programmers from the Massachusetts area that meet regularly to discuss computer security, participate in CTF (Capture The Flag) events, and help teach others about Information Security as a whole.</p>
+
+<h3>What Do We Do?</h3>
+
+<p>Drink all the booze and hack all the things</p>
+
+<h3>What Does PTC Stand For?</h3>
+
+<p>Park The Car, Pay The Cabbie, Pummel The Cabbage, Please Take Care. We don&rsquo;t actually know what PTC stands for as it was originally created as a joke when connection (founder of PTC) decided he would make a hacking group in Boston with a funny name. Originally PTC stood for Park The Car spoken with a stereotypical Boston accent (aka Pahk The Cah).</p>
+]]></content>
+  </entry>
+  
+</feed>
