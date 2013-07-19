@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: misc | PTC Hacks]]></title>
-  <link href="http://ptchacks.github.io/ptchacks/blog/categories/misc/atom.xml" rel="self"/>
-  <link href="http://ptchacks.github.io/ptchacks/"/>
-  <updated>2013-07-19T14:06:29-04:00</updated>
-  <id>http://ptchacks.github.io/ptchacks/</id>
+  <link href="http://ptchacks.github.io/blog/categories/misc/atom.xml" rel="self"/>
+  <link href="http://ptchacks.github.io/"/>
+  <updated>2013-07-19T14:17:27-04:00</updated>
+  <id>http://ptchacks.github.io/</id>
   <author>
     <name><![CDATA[connection]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://ptchacks.github.io/ptchacks/blog/2013/07/19/hello-world/"/>
+    <link href="http://ptchacks.github.io/blog/2013/07/19/hello-world/"/>
     <updated>2013-07-19T13:49:00-04:00</updated>
-    <id>http://ptchacks.github.io/ptchacks/blog/2013/07/19/hello-world</id>
+    <id>http://ptchacks.github.io/blog/2013/07/19/hello-world</id>
     <content type="html"><![CDATA[<h1>Hello World</h1>
 
 <h3>Who Are We?</h3>
